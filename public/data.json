@@ -1,0 +1,261 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "firstname": "Davor",
+      "lastname": "Blazevic",
+      "age": "29",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2017/03/BB220223BB853-Custom-184x300.jpg"
+    },
+    {
+      "id": 1,
+      "firstname": "Oliver",
+      "lastname": "Dovin",
+      "age": "19",
+      "position": 1,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2018/02/BB220223BB844-Custom-184x300.jpg"
+    },
+    {
+      "id": 2,
+      "firstname": "Björn",
+      "lastname": "Paulsen",
+      "age": "30",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2017/01/BB220223BB855-Custom-184x300.jpg"
+    },
+    {
+      "id": 3,
+      "firstname": "Dennis",
+      "lastname": "Widgren",
+      "age": "28",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2019/01/BB210308BB442-1-184x300.jpg"
+    },
+    {
+      "id": 4,
+      "firstname": "Edvin",
+      "lastname": "Kurtulus",
+      "age": "22",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/01/BB220223BB849-Custom-184x300.jpg"
+    },
+    {
+      "id": 5,
+      "firstname": "Joel",
+      "lastname": "Nilsson",
+      "age": "27",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/01/BB220223BB850-Custom-184x300.jpg"
+    },
+    {
+      "id": 6,
+      "firstname": "Jon",
+      "lastname": "Fjoluson",
+      "age": "33",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2021/01/BB220223BB856-Custom-184x300.jpg"
+    },
+    {
+      "id": 7,
+      "firstname": "Mads",
+      "lastname": "Fenger",
+      "age": "31",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2017/06/BB220223BB848-Custom-184x300.jpg"
+    },
+    {
+      "id": 8,
+      "firstname": "Mohanad",
+      "lastname": "Jeahze",
+      "age": "25",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/08/BB220223BB870-Custom-184x300.jpg"
+    },
+    {
+      "id": 9,
+      "firstname": "Richard",
+      "lastname": "Magyar",
+      "age": "31",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2019/07/BB220223BB857-Custom-184x300.jpg"
+    },
+    {
+      "id": 10,
+      "firstname": "Simon",
+      "lastname": "Sandberg",
+      "age": "28",
+      "position": 2,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2018/01/BB220223BB851-Custom-184x300.jpg"
+    },
+    {
+      "id": 12,
+      "firstname": "Abbe",
+      "lastname": "Khalili",
+      "age": "29",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/02/BB220223BB860-Custom-184x300.jpg"
+    },
+    {
+      "id": 13,
+      "firstname": "Darijan",
+      "lastname": "Bojanic",
+      "age": "27",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2019/01/BB220223BB858-Custom-184x300.jpg"
+    },
+    {
+      "id": 14,
+      "firstname": "Dennis",
+      "lastname": "Collander",
+      "age": "20",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/01/BB220223BB846-Custom-184x300.jpg"
+    },
+    {
+      "id": 15,
+      "firstname": "Jeppe",
+      "lastname": "Andersen",
+      "age": "29",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2017/06/BB220223BB854-Custom-184x300.jpg"
+    },
+    {
+      "id": 16,
+      "firstname": "Loret",
+      "lastname": "Sadiku",
+      "age": "30",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/03/Loret_sajt_jpg_temp-184x300.jpg"
+    },
+    {
+      "id": 17,
+      "firstname": "Mayckel",
+      "lastname": "Lahdo",
+      "age": "19",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/06/BB220223BB847-Custom-184x300.jpg"
+    },
+    {
+      "id": 18,
+      "firstname": "Nahir",
+      "lastname": "Besara",
+      "age": "31",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/02/BB220223BB859-Custom-184x300.jpg"
+    },
+    {
+      "id": 19,
+      "firstname": "Williot",
+      "lastname": "Swedberg",
+      "age": "18",
+      "position": 3,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2021/02/BB220223BB843-Custom-184x300.jpg"
+    },
+    {
+      "id": 20,
+      "firstname": "Astrit",
+      "lastname": "Selmani",
+      "age": "25",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/12/BB220223BB871-Custom-184x300.jpg"
+    },
+    {
+      "id": 21,
+      "firstname": "Steve",
+      "lastname": "Trawally",
+      "age": "27",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2022/04/Trawally_vitbg-temp-184x300.jpg"
+    },
+    {
+      "id": 22,
+      "firstname": "Gustav",
+      "lastname": "Ludwigson",
+      "age": "28",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/01/BB220223BB852-Custom-184x300.jpg"
+    },
+    {
+      "id": 23,
+      "firstname": "Jusef",
+      "lastname": "Erabi",
+      "age": "18",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2020/10/BB220223BB842-Custom-184x300.jpg"
+    },
+    {
+      "id": 24,
+      "firstname": "Loué",
+      "lastname": "Junior",
+      "age": "21",
+      "position": 4,
+      "profilepicture": "https://www.hammarbyfotboll.se/wp-content/uploads/2016/03/portratt_loue-184x300.jpg"
+    }
+  ],
+  "position": [
+    {
+      "name": "Målvakt",
+      "id": 1
+    },
+    {
+      "name": "Back",
+      "id": 2
+    },
+    {
+      "name": "Mittfältare",
+      "id": 3
+    },
+    {
+      "name": "Anfallare",
+      "id": 4
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "datum": "26/6",
+      "tid": "15:00",
+      "lag": "Hammarby-Häcken",
+      "liga": "Allsvenskan",
+      "arena": "Tele2 Arena",
+      "resultat": "5-0"
+    },
+    {
+      "id": 2,
+      "datum": "5/6",
+      "tid": "15:00",
+      "lag": "Hammarby-AIK",
+      "liga": "Allsvenskan",
+      "arena": "Tele2 Arena",
+      "resultat": "8-0"
+    },
+    {
+      "id": 3,
+      "datum": "8/6",
+      "tid": "15:00",
+      "lag": "Hammarby-Djurgården",
+      "liga": "Allsvenskan",
+      "arena": "Tele2 Arena",
+      "resultat": "7-0"
+    },
+    {
+      "id": 4,
+      "datum": "11/6",
+      "tid": "15:00",
+      "lag": "Hammarby-Värnamo",
+      "liga": "Allsvenskan",
+      "arena": "Tele2 Arena",
+      "resultat": "0-1"
+    },
+    {
+      "id": 5,
+      "datum": "17/6",
+      "tid": "15:00",
+      "lag": "Hammarby-Malmö",
+      "liga": "Allsvenskan",
+      "arena": "Tele2 Arena",
+      "resultat": "100-0"
+    }
+  ]
+}

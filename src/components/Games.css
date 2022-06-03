@@ -1,0 +1,57 @@
+.table-container {
+  padding: 14px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.add-player-title {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  table-layout: auto;
+}
+
+.fixed {
+  table-layout: fixed;
+}
+
+table,
+td,
+th {
+  border-collapse: collapse;
+  
+}
+
+th,
+td {
+  padding: 10px;
+  border: solid 1px;
+  text-align: center;
+  font-size: large;
+}
+
+.w {
+  width: 400px;
+}
+td:nth-child(1) {
+  color: rgb(0, 253, 106);
+}
+td:nth-child(2) {
+  color: white;
+}
+td:nth-child(3) {
+  color: rgb(0, 253, 106);
+}
+td:nth-child(4) {
+  color: white;
+}
+td:nth-child(5) {
+  color: rgb(0, 253, 106);
+}
+td:nth-child(6) {
+  color: white;
+}
