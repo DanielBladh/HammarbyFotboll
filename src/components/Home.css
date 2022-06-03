@@ -1,0 +1,14 @@
+.home-content {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: fit-content;
+    margin-top: 100px;
+  }
+

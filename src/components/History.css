@@ -1,0 +1,21 @@
+.history-content {
+    display: block;
+    justify-content: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5rem;
+}
+
+.history-title {
+    color: white;
+    font-weight: bold;
+    border-bottom: 5px solid rgb(36, 122, 72);
+    padding: 10px;
+}
+
+.history-text, .history-text-second {
+    color: white;
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+}

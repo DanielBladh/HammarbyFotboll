@@ -1,0 +1,19 @@
+.team-content {
+    display: flex;
+    justify-content: center;
+}
+
+.cardHolder {
+    width: 100%;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+
+
+
